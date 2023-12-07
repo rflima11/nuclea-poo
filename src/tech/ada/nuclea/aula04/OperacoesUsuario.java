@@ -29,12 +29,31 @@ public class OperacoesUsuario {
         }
     }
 
-    public ArrayList<Usuario> getUsuariosDoBancoDeDados() {
-        return this.usuariosDoBancoDeDados;
+    public void excluir(String email) {
+        //Usuario usuarioAserExcluido = null;
+
+        for(Usuario user : this.usuariosDoBancoDeDados) {
+            if (user.getEmail().equals(email)) {
+                System.out.println("Removendo usuário e-mail " + email);
+                this.usuariosDoBancoDeDados.remove(user);
+                break;
+            }
+        }
+
+/*        if (usuarioAserExcluido != null) {
+            this.usuariosDoBancoDeDados.remove(usuarioAserExcluido);
+        } else {
+            System.err.println(email + " Usuário informado não encontrado");
+        }*/
+
+        /*this.usuariosDoBancoDeDados.remove(usuario);
+        System.out.println("Usuário removido do banco: " + usuario.getNome());*/
     }
 
 
-
+    public ArrayList<Usuario> getUsuariosDoBancoDeDados() {
+        return this.usuariosDoBancoDeDados;
+    }
 
 
     // Inicialização pelo setter seria ruim, pois estaríamos delegando para outra classe

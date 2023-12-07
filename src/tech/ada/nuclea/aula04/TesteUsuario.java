@@ -13,6 +13,7 @@ public class TesteUsuario {
         Usuario usuario2 = new Usuario("Carlos", "carlos.lima11@gmail.com",
                 LocalDate.of(1994, 3, 26));
 
+
         //Instanciar a classe OperacoesUsuario que usaremos para
         // interagir com as operações de bancos de dados do usuário
         OperacoesUsuario operacoesUsuario = new OperacoesUsuario();
@@ -23,6 +24,8 @@ public class TesteUsuario {
         operacoesUsuario.salvarUsuario(usuario);
 
         operacoesUsuario.salvarUsuario(usuario2);
+
+        operacoesUsuario.excluir("carlos.lima11@gmail.com");
 
         ArrayList<Usuario> usuariosSalvos = operacoesUsuario.getUsuariosDoBancoDeDados();
 
