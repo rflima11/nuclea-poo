@@ -30,21 +30,24 @@ public class OperacoesUsuario {
     }
 
     public void excluir(String email) {
-        //Usuario usuarioAserExcluido = null;
-
+        Usuario usuarioAserExcluido = null;
+        int contadorIndex = 0;
         for(Usuario user : this.usuariosDoBancoDeDados) {
             if (user.getEmail().equals(email)) {
-                System.out.println("Removendo usuário e-mail " + email);
-                this.usuariosDoBancoDeDados.remove(user);
-                break;
+                usuarioAserExcluido = user;
             }
+            contadorIndex++;
         }
 
-/*        if (usuarioAserExcluido != null) {
+        if (usuarioAserExcluido != null) {
             this.usuariosDoBancoDeDados.remove(usuarioAserExcluido);
         } else {
             System.err.println(email + " Usuário informado não encontrado");
-        }*/
+        }
+
+
+
+
 
         /*this.usuariosDoBancoDeDados.remove(usuario);
         System.out.println("Usuário removido do banco: " + usuario.getNome());*/

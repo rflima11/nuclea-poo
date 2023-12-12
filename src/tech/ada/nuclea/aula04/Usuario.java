@@ -28,7 +28,7 @@ public class Usuario {
         return this.dataNascimento;
     }
 
-
+    @Override
     public boolean equals(Object object) {
         return ((Usuario) object).getEmail().equals(this.email);
     }
