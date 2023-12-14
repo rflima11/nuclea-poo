@@ -2,7 +2,7 @@ package tech.ada.nuclea.aula06.resolucaoexec;
 
 public class Pagamento {
 
-    private Double valor;
+    protected Double valor;
 
     public Pagamento(Double valor) {
         this.valor = valor;

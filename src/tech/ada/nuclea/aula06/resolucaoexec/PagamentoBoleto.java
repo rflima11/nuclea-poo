@@ -11,6 +11,6 @@ public class PagamentoBoleto extends Pagamento {
 
     @Override
     public String calcularPagamento() {
-        return "Pagamento efetuado com boleto, valor: " + getValor();
+        return "Pagamento efetuado com boleto, valor: " + valor;
     }
 }
