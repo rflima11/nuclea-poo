@@ -1,0 +1,11 @@
+
+ˆ
+java:S1319"fThe type of "atores" should be an interface such as "List" rather than the implementation "ArrayList".(¾°ÅÚøÿÿÿÿ8ÈçÕÛÅ1
+0
+java:S1220""Move this file to a named package.
+G
+java:S1068"*Remove this unused "titulo" private field.(ÿ°³¯8ƒêÔÛÅ1
+H
+java:S1068	"+Remove this unused "diretor" private field.(ôïáˆ8ˆœÒÛÅ1
+G
+java:S1068"*Remove this unused "atores" private field.(ê€ü¨8ŒíÒÛÅ1

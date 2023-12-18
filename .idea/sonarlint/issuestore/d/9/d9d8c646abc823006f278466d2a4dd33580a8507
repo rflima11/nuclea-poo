@@ -1,0 +1,10 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "gato".(İâúç8¨º¬ÛÅ1
+X	java:S125"<This block of commented-out lines of code should be removed.(ª¹Å’8ªº¬ÛÅ1
+X	java:S125	"<This block of commented-out lines of code should be removed.(Â›ÿ8ªº¬ÛÅ1
+G	java:S106"+Replace this use of System.out by a logger.(›ûá¤8«º¬ÛÅ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÁıÛ»ùÿÿÿÿ8¬º¬ÛÅ1
+F
+java:S1481")Remove this unused "gato" local variable.(İâúç8¬º¬ÛÅ1
+X	java:S125"<This block of commented-out lines of code should be removed.(úŸ¾è8¬º¬ÛÅ1

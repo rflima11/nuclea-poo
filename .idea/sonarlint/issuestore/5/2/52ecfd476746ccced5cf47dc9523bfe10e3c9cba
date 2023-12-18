@@ -1,0 +1,10 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(¬èÆåùÿÿÿÿ8‹ÊãÚÅ1
+G	java:S106"+Replace this use of System.out by a logger.(¬×‘Ö8—«ˆÛÅ1
+J
+java:S1172!"-Remove this unused method parameter "numero".(ˆÿˆ†8­Á§ÛÅ1
+G	java:S106&"+Replace this use of System.out by a logger.(¿ô€ô8ºß˜ÛÅ1
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8¿Â¾ÛÅ1
+I
+java:S1068",Remove this unused "isGuarda" private field.(Î½¨Î8şĞñÚÅ1

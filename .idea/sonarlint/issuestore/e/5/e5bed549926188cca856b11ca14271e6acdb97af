@@ -1,0 +1,7 @@
+
+g
+java:S1854"ERemove this useless assignment to local variable "resultadoContains".(Ä¬öÔşÿÿÿÿ8Õè ‹Ä1
+X
+java:S1481"6Remove this unused "resultadoContains" local variable.(Ä¬öÔşÿÿÿÿ8Ùè ‹Ä1
+X	java:S125"<This block of commented-out lines of code should be removed.(ŒÀ‚ÿ8Ùè ‹Ä1
+G	java:S106!"+Replace this use of System.out by a logger.(œ§Œî8¤È ‹Ä1

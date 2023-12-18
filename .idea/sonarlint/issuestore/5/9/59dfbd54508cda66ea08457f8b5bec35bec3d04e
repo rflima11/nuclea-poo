@@ -1,0 +1,8 @@
+
+V
+java:S1854":Remove this useless assignment to local variable "pessoa".(ˆ³â8´ÙùÇ1
+L	java:S106
+"+Replace this use of System.out by a logger.(ôçˆÆıÿÿÿÿ8ŞÔÓùÇ1
+L	java:S106"+Replace this use of System.out by a logger.(Ë¸Å“şÿÿÿÿ8ôÖùÇ1
+G
+java:S1481"+Remove this unused "pessoa" local variable.(ˆ³â8»ÙùÇ1

@@ -1,0 +1,11 @@
+
+’
+java:S13199"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Á’å®úÿÿÿÿ8ó™ÓÄ1
+G	java:S106"+Replace this use of System.err by a logger.(â´¯²8‘šÓÄ1
+T
+java:S1481""2Remove this unused "contadorIndex" local variable.(âÁùŞøÿÿÿÿ8µ˜”ÜÅ1
+F	java:S106-"+Replace this use of System.err by a logger.(ãìÈ8ãÚÄ1
+]	java:S1254"<This block of commented-out lines of code should be removed.(©‰×ıúÿÿÿÿ8“šÓÄ1
+]	java:S125A"<This block of commented-out lines of code should be removed.(€‰åíúÿÿÿÿ8”šÓÄ1
+]	java:S125S"<This block of commented-out lines of code should be removed.(ğæñêÿÿÿÿÿ8”šÓÄ1
+]	java:S125\"<This block of commented-out lines of code should be removed.(ìö×şÿÿÿÿ8”šÓÄ1

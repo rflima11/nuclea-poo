@@ -1,0 +1,7 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(øß¤Í8Üé£úÇ1
+o
+java:S6204!"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß8µÁ§úÇ1
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(”¾Î³ıÿÿÿÿ8¡ƒ¤úÇ1
+L	java:S106#"+Replace this use of System.out by a logger.(ªÊÿÊûÿÿÿÿ8âé£úÇ1

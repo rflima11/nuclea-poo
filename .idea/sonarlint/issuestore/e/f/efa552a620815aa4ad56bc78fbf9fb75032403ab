@@ -1,0 +1,7 @@
+
+a
+java:S2259!"DA "NullPointerException" could be thrown; "object" is nullable here.(ÉœÄÒ8ÙÒ²‹Ä1
+m
+java:S1206 "PThis class overrides "equals()" and should therefore also override "hashCode()".(’ÜÇŞ8ÜÒ²‹Ä1
+<
+java:S2097 "Add a type test to this method.(’ÜÇŞ8åÒ²‹Ä1

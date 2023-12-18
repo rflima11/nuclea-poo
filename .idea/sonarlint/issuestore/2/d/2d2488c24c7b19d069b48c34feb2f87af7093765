@@ -1,0 +1,11 @@
+
+G	java:S106
+"+Replace this use of System.out by a logger.(í·Æš8‚çÄØÅ1
+L	java:S106"+Replace this use of System.out by a logger.(ÔÀÙÁøÿÿÿÿ8ƒçÄØÅ1
+G	java:S106"+Replace this use of System.out by a logger.(¥Ï›8Ö‡ÜØÅ1
+S
+java:S1068"1Remove this unused "numeroDePatas" private field.(’Î‹”şÿÿÿÿ8šëØÅ1
+N
+java:S1068",Remove this unused "isPeludo" private field.(©àŸÄşÿÿÿÿ8„çÄØÅ1
+K
+java:S1068")Remove this unused "seVoa" private field.(ç”ëıÿÿÿÿ8„çÄØÅ1
